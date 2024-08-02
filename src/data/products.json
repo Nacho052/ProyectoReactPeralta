@@ -1,0 +1,132 @@
+[
+    {
+        "id": "buzo-01",
+        "titulo": "TOP DE ENTRENAMIENTO ARGENTINA",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4b186ea588b54b75b835adb3de317ad5_9366/Top_de_Entrenamiento_Tiro_24_Competition_Argentina_Beige_IQ0820_21_model.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 99.999
+    },
+    {
+        "id": "buzo-02",
+        "titulo": "Campera Deportiva ADN Argentina 24",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9288733a24dd42d584e0c9f5848a2d03_9366/Campera_Deportiva_ADN_Argentina_24_Azul_IT9682_21_model.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 114.999
+    },
+    {
+        "id": "buzo-03",
+        "titulo": "Buzo Adicolor Classics 3 Tiras",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb4e1d1d701b4e46add53661a0206d04_9366/Buzo_Adicolor_Classics_3_Tiras_Azul_IZ3074_21_model.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 154.999
+    },
+    {
+        "id": "buzo-04",
+        "titulo": "Campera Adicolor Classics Firebird",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d87624f819e54cc1af4409b5c62d1d68_9366/Campera_Adicolor_Classics_Firebird_Amarillo_IR9891_21_model.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 99.999
+    },
+    {
+        "id": "buzo-05",
+        "titulo": "ACP CREW",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b4610b6ab9754e6db8d9af6a014ed923_9366/ACP_CREW_Beige_IC8862_21_model.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 104.999
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "REMERA ARGENTINA 24",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/89cc99c51bc240c8a5f8c259c5fb76b3_9366/Remera_Argentina_24_Beige_IY5490_01_laydown.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 51.999
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera Run It",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee95c727a4e640b98db895de64884e50_9366/Remera_Run_It_Multicolor_IL7235_HM1.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 51.999
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera Essentials",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/78818b4c3fba4a548f71d51bea5d0b9f_9366/Remera_Essentials_Logo_Grande_Tejido_Jersey_Rojo_IX0137_21_model.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 45.999
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Chomba de Tenis Club 3 Tiras",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/782b605b1c224f1ca0ee583f13c79382_9366/Chomba_de_Tenis_Club_3_Tiras_Azul_IZ3220_21_model.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 45.999
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Deportivo SSTR Classic Mono",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1ee6ccb053154aea8edbe271ae6655ad_9366/Pantalon_Deportivo_SSTR_Classic_Mono_Marron_IS0257_21_model.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 94.999
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón de Entrenamiento Argentina ",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fcac37212bc7456ab898351dbedef15c_9366/Pantalon_de_Entrenamiento_Argentina_Tiro_24_Gris_IQ0824_21_model.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 85.999
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Z.N.E. Tejido",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f188a70778bd45e5911c820550387be4_9366/Pantalon_Z.N.E._Tejido_Verde_IS9278_21_model.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 70.999
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón de Entrenamiento Argelia",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/99959f0490ad40bfaab3ae8f00ca2601_9366/Pantalon_de_Entrenamiento_Argelia_Azul_HF1462_21_model.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 159.999
+    }
+]
